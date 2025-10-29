@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=pllayer-132&color=b4f3fa&style=flat-square&label=SINS-COMMITTED&base=50&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=pllayer-132&color=164ba1&style=flat-square&label=SINS-COMMITTED&base=50&abbreviated=true)
 
 
 <div align="center">
