@@ -23,9 +23,6 @@
     <a href="https://calindean.atabook.org/">SIGN ATA!</a>
   </div>
 
-  
-
-
 </div>
 
 
