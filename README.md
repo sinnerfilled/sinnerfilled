@@ -23,7 +23,7 @@
     <a href="https://calindean.atabook.org/">SIGN ATA!</a>
   </div>
 
-  <img src="https://i.imgur.com/hBXecdp.png" width="650"/>
+  <img src="https://i.imgur.com/lGPRW31.png" width="650"/>
 <br>
 
 </div>
