@@ -24,6 +24,11 @@
   </div>
 
   <img src="https://i.imgur.com/lGPRW31.png" width="650"/>
+  </p>
+  <img src="https://media.discordapp.net/attachments/1346352470993141841/1437357241647763577/1a72e3d8bde070e9120950d444179ad6.png?ex=6914443f&is=6912f2bf&hm=92fd8e7b360381614d289764e34cb2e52641cb0908e3fe4a9e173c40f80ef170&=&format=webp&quality=lossless&width=1472&height=1104" width="300"/>
+    <img src="https://media.discordapp.net/attachments/1346352470993141841/1437356970431746048/5de98fd7f2522c0d6089a34377c116ba.png?ex=691443fe&is=6912f27e&hm=fd2a0cadd4d08f8f693fdf6b84df4b44d1e74dc136542d9363fb8636d6db39e4&=&format=webp&quality=lossless&width=1472&height=1068" width="310"/>
+
+
 <br>
 
 </div>
