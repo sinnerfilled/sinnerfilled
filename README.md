@@ -28,7 +28,6 @@
   <img src="https://64.media.tumblr.com/25d0c6692ffa0e923d1453a3de0cc7e4/75ed749a170500e9-f7/s2048x3072/8990ba61f3e88ded6960aec339503760a3912953.jpg" width="300"/>
   </p>
 
-  <img src="https://i.imgur.com/lGPRW31.png" width="500"/>
 
 
 
