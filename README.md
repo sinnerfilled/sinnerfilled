@@ -17,6 +17,9 @@
     alt="typing"
     style="margin:4px 0;"
   />
+  </p>
+    <img src="https://i.pinimg.com/736x/b5/f3/bc/b5f3bc0c9ace346dfc47ce8deee33461.jpg" width="200"/>
+  </p>
 
 
   <div style="margin:4px 0;">
@@ -25,6 +28,7 @@
   </div>
 
   </p>
+  <img src="https://i.imgur.com/9tRSPGA.jpeg" width="300"/>
 
   </p>
 
@@ -35,8 +39,6 @@
   </p>
 
 
-  <img src="https://i.imgur.com/9tRSPGA.jpeg" width="300"/>
-    </p>
 
 
 
