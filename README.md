@@ -33,7 +33,6 @@
 
   </p>
 
-  <img src="https://i.imgur.com/lGPRW31.png" width="500"/>
 
   </p>
 
