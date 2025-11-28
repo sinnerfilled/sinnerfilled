@@ -19,7 +19,7 @@
   />
   </p>
 
-  <img src="https://i.pinimg.com/736x/b5/f3/bc/b5f3bc0c9ace346dfc47ce8deee33461.jpg" width="150"/>
+  <img src="https://i.imgur.com/ILrYsXL.png" width="250"/>
   </p>
 
   <div style="margin:4px 0;">
