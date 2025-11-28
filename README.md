@@ -35,9 +35,6 @@
 
 
   </p>
-
-  <img src="https://i.imgur.com/9tRSPGA.jpeg" width="300"/>
-
   </p>
 working on pt specific strawpage
 
