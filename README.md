@@ -44,10 +44,6 @@ working on pt specific strawpage
 
   </p>
 
-
-  <img src="https://64.media.tumblr.com/3f4cd11fb5be50f9a2bcd61306277038/508a40784ed5ddb1-e5/s1280x1920/967dfe51cba5327af23c6d9f4b018344b8a2850f.jpg" width="300"/>
-  </p>
-
 </div>
 
 
