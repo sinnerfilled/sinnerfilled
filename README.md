@@ -41,6 +41,7 @@ working on pt specific strawpage
   </p>
     </p>
 <br>
+    <img src="https://pbs.twimg.com/media/GI8OThhboAAvifK?format=jpg&name=360x360" width="300"/>
 
   </p>
 
