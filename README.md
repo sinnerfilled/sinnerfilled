@@ -18,8 +18,12 @@
     style="margin:4px 0;"
   />
   </p>
+    </p>
+    <img src="https://pbs.twimg.com/media/GI8OThhboAAvifK?format=jpg&name=360x360" width="300"/>
 
-  <img src="https://i.imgur.com/ILrYsXL.png" width="250"/>
+  </p>
+ by @gvi_gesoebi on twit
+
   </p>
 
   <div style="margin:4px 0;">
@@ -39,11 +43,6 @@
 working on pt specific strawpage
 
   </p>
-    </p>
-    <img src="https://pbs.twimg.com/media/GI8OThhboAAvifK?format=jpg&name=360x360" width="300"/>
-
-  </p>
- by @gvi_gesoebi on twit
     </p>
 
 </div>
