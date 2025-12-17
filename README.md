@@ -19,7 +19,7 @@
   />
   </p>
     </p>
-    <img src="https://pbs.twimg.com/media/GI8OThhboAAvifK?format=jpg&name=360x360" width="300"/>
+  <img src="https://s4.ezgif.com/tmp/ezgif-48f6638ba8cec686.gif" width="300"/>
 
   </p>
  by @gvi_gesoebi on twit
