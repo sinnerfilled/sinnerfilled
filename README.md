@@ -21,7 +21,7 @@
   />
   </p>
     </p>
-  <img src="https://s4.ezgif.com/tmp/ezgif-48f6638ba8cec686.gif" width="300"/>
+  <img src="https://i.imgur.com/abgJgEj.gif" width="300"/>
 
   </p>
  by @gvi_gesoebi on twit
