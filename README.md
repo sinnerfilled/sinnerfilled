@@ -6,7 +6,6 @@
 
   <div>
 
-  <i> "What's the difference between you and me, huh?" </i>
    
   <img src="https://64.media.tumblr.com/4a13830dd275bcafd1482e1dbb1fc45e/473928ea48888009-f0/s100x200/a8cd6e26130895738be1887f4bbdebaa7a0b4689.gifv" width="100"/>
     <img src="https://64.media.tumblr.com/e15fbde0afe43cc4d92412d7f4a0964f/6aabbea0af91b052-1a/s250x400/785ac30f191d141e613b4b73cb89f91c32718249.pnj" width="100"/>
