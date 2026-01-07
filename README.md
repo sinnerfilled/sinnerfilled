@@ -5,11 +5,11 @@
 
 
   <div>
+  </p>
 
-   
-  <img src="https://64.media.tumblr.com/4a13830dd275bcafd1482e1dbb1fc45e/473928ea48888009-f0/s100x200/a8cd6e26130895738be1887f4bbdebaa7a0b4689.gifv" width="100"/>
-    <img src="https://64.media.tumblr.com/e15fbde0afe43cc4d92412d7f4a0964f/6aabbea0af91b052-1a/s250x400/785ac30f191d141e613b4b73cb89f91c32718249.pnj" width="100"/>
-    <img src="https://64.media.tumblr.com/ba16fd677465e1201df716046bad6e20/941b9c0346d564c0-88/s100x200/e2809bd68dae61a91e4c89d3d0facc364c297699.jpg" width="100"/>
+  <img src="https://64.media.tumblr.com/e658bea23833000e0fc07c016e2d1488/f1413ef45abf2485-7d/s100x200/299f80bd3a7705491033decba75cf03f3647b88b.pnj" width="120"/>
+  <img src="https://64.media.tumblr.com/4a13830dd275bcafd1482e1dbb1fc45e/473928ea48888009-f0/s100x200/a8cd6e26130895738be1887f4bbdebaa7a0b4689.gifv" width="120"/>
+  <img src="https://64.media.tumblr.com/d94993da2bdab08887b3ffbe60381f53/78d582f67a32258b-97/s100x200/cd589ad632d4359cc4e9f929aca5ac5ac0458b0b.gifv" width="120"/>
 
 
 
@@ -22,10 +22,8 @@
   />
   </p>
     </p>
-  <img src="https://i.imgur.com/abgJgEj.gif" width="300"/>
+  <img src="https://i.imgur.com/abgJgEj.gif" width="400"/>
 
-  </p>
- by @gvi_gesoebi on twit
 
   </p>
 
@@ -39,11 +37,13 @@
   </p>
 
   </p>
+ everything here by <a href="https://x.com/gvi_gesoebi">@gvi_gesoebi on twit</a>  
 
 
   </p>
+  <img src="https://i.imgur.com/V36fKuA.png" width="400"/>
+
   </p>
-working on pt specific strawpage ... one day
 
   </p>
     </p>
