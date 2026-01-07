@@ -37,7 +37,7 @@
   </p>
 
   </p>
- everything here by <a href="https://x.com/gvi_gesoebi">@gvi_gesoebi on twit</a>  
+  by <a href="https://x.com/gvi_gesoebi">@gvi_gesoebi on twit</a>  
   </p>
 I'm usually in one of my Sixty or RK900 ponies, on the left of the cafe
 
