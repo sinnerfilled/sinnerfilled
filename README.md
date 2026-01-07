@@ -22,7 +22,7 @@
   />
   </p>
     </p>
-  <img src="https://i.imgur.com/abgJgEj.gif" width="400"/>
+  <img src="https://i.imgur.com/V36fKuA.png" width="400"/>
 
 
   </p>
@@ -42,7 +42,6 @@
 I'm usually in one of my Sixty or RK900 ponies, on the road thats left to the cafe
 
   </p>
-  <img src="https://i.imgur.com/V36fKuA.png" width="400"/>
 
   </p>
 
