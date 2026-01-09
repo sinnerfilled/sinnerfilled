@@ -45,7 +45,7 @@ always on the left of the cafe
   </p>
 
   <br>
-  <img src="https://i.imgur.com/zViwpuX.png" width="350"/>
+  <img src="https://i.imgur.com/zViwpuX.png" width="320"/>
 
   </p>if I disconnect that's cuz i've been a bad boy and used <br>
   scripts / macros / alt accounts multiple times and then the pt gods punished me LOL</p>
