@@ -39,14 +39,18 @@
   </p>
   by <a href="https://x.com/gvi_gesoebi">@gvi_gesoebi on twit</a>  
   </p>
-I'm usually in one of my Sixty or RK900 ponies, always on the left of the cafe
+I'm usually in one of my Sixty or RK900 ponies, <br>
+always on the left of the cafe
 
   </p>
 
-  </p>
+  <br>
+  <img src="https://i.imgur.com/zViwpuX.png" width="350"/>
+
+  </p>if I disconnect that's cuz i've been a bad boy and used <br>
+  scripts / macros / alt accounts multiple times and then the pt gods punished me LOL</p>
 
   </p>
-    </p>
 
 </div>
 
