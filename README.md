@@ -58,7 +58,7 @@
 
 
   </p>
-  <img src="https://i.imgur.com/sZ4XmvX.png" width="450"/>
+  <img src="https://pbs.twimg.com/media/GZdBqjMbsAAmJ3y?format=jpg&name=4096x4096" width="700"/>
 
   <a href="https://x.com/gvi_gesoebi">by @gvi_gesoebi</a>
 
@@ -85,6 +85,10 @@ always on the left of the cafe
 
   </p>if I disconnect a lot mid-conversation, that's cuz i was evil and used <br>
   scripts / macros / alt accounts multiple times and then the pt gods punished me LOL</p>
+
+  </p>
+
+  <img src="https://i.imgur.com/sZ4XmvX.png" width="320"/>
 
   </p>
 
