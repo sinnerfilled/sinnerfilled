@@ -58,18 +58,19 @@
 
 
   </p>
-  <img src="https://pbs.twimg.com/media/G9boVYUaEAAOeyH?format=jpg&name=medium" width="450"/>
+  <img src="https://i.imgur.com/sZ4XmvX.png" width="450"/>
 
+  <a href="https://x.com/gvi_gesoebi">by @gvi_gesoebi</a>
 
   </p>
 
   <div style="margin:4px 0;">
-    <a href="https://calendular.straw.page/">STRAWPAGE</a> ⟢
+    <a href="https://calendular.straw.page/">MAIN STRAWPAGE</a> ⟢
     <a href="https://calindean.atabook.org/">SIGN ATA!</a>
   </div>
 
   </p>
-
+(*working on pt specific strawpage*)
   </p>
 
   </p>
