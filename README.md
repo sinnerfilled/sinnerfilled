@@ -14,7 +14,7 @@
 
   </p>
 
-   <img src="https://64.media.tumblr.com/5721942a12ddb0cf46f92b8a8d63650b/135d6e6937ffbdd1-ed/s75x75_c1/621b166437321f835c0c95acfcad8c5445ebb3fa.gifv" width="30"/>![](https://komarev.com/ghpvc/?username=pllayer-132&color=164ba1&style=flat-square&label=DEATH-COUNT?!&base=50)   
+   <img src="https://64.media.tumblr.com/5721942a12ddb0cf46f92b8a8d63650b/135d6e6937ffbdd1-ed/s75x75_c1/621b166437321f835c0c95acfcad8c5445ebb3fa.gifv" width="30"/>![](https://komarev.com/ghpvc/?username=pllayer-132&color=164ba1&style=flat-square&label=PAGE-VIEWS!&base=50)   
   </p>
 
 <table>
@@ -34,9 +34,10 @@
    <!-- RIGHT: CD graphic -->
   <td valign="top" align="right">
       <img 
-        src="https://64.media.tumblr.com/2be6a5ceb4f553b5cc3374e5a220c494/4d8f51f9e4c253bd-0c/s1280x1920/29b90d406c6bda8b8cde1b30fa49ccff52e0872a.pnj"
+        src="https://i.imgur.com/nhue3i6.png"
         width="280"
-      />
+      /><br>
+    <a href="https://x.com/CWee_bluu">by @CWee_bluu</a>
     </td>
   </tr>
 </table>
