@@ -88,8 +88,10 @@ always on the left of the cafe
 
   </p>
 
-  <img src="https://i.imgur.com/sZ4XmvX.png" width="320"/>
+  <img src="https://i.imgur.com/sZ4XmvX.png" width="400"/>
 
+  </p>
+  <a href="https://x.com/gvi_gesoebi">also by @gvi_gesoebi lol</a>
   </p>
 
 </div>
