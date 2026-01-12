@@ -5,8 +5,18 @@
 
 
   <div>
+
   </p>
 
+  <img src="https://64.media.tumblr.com/2be6a5ceb4f553b5cc3374e5a220c494/4d8f51f9e4c253bd-0c/s1280x1920/29b90d406c6bda8b8cde1b30fa49ccff52e0872a.pnj" width="200"/>
+
+  </p>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=20&duration=2000&pause=800&color=2492c9&center=true&vCenter=true&width=700&lines=Usually%20in%20class%20so%20w2i...;c*h%20always%20encouraged!;int%20anytime...%20ok...?;check%20my%20strawpage%20too!)" 
+    alt="typing"
+    style="margin:4px 0;"
+  />
+  </p>
   <img src="https://64.media.tumblr.com/e658bea23833000e0fc07c016e2d1488/f1413ef45abf2485-7d/s100x200/299f80bd3a7705491033decba75cf03f3647b88b.pnj" width="100"/>
   <img src="https://64.media.tumblr.com/4a13830dd275bcafd1482e1dbb1fc45e/473928ea48888009-f0/s100x200/a8cd6e26130895738be1887f4bbdebaa7a0b4689.gifv" width="100"/>
   <img src="https://64.media.tumblr.com/d94993da2bdab08887b3ffbe60381f53/78d582f67a32258b-97/s100x200/cd589ad632d4359cc4e9f929aca5ac5ac0458b0b.gifv" width="100"/>
@@ -17,14 +27,9 @@
 
   </div>
 
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=20&duration=2000&pause=800&color=2492c9&center=true&vCenter=true&width=700&lines=Usually%20in%20class%20so%20w2i...;c*h%20always%20encouraged!;int%20anytime...%20ok...?;check%20my%20strawpage%20too!)" 
-    alt="typing"
-    style="margin:4px 0;"
-  />
+
   </p>
-    </p>
-  <img src="https://pbs.twimg.com/media/G9boVYUaEAAOeyH?format=jpg&name=medium" width="500"/>
+  <img src="https://pbs.twimg.com/media/G9boVYUaEAAOeyH?format=jpg&name=medium" width="450"/>
 
 
   </p>
