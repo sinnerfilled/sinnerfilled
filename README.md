@@ -1,7 +1,8 @@
-![](https://komarev.com/ghpvc/?username=pllayer-132&color=164ba1&style=flat-square&label=DEATH-COUNT?!&base=50)
-<img src="https://64.media.tumblr.com/69c8d9407a98a3dcc380c43a9292f698/b18aff3ce9323114-81/s250x400/036dc286f655d5ec174d083a555a25c7771db08f.gifv" width="150"/>
-<img src="https://64.media.tumblr.com/33df89a383a78edbade2c6d872e4ecc1/b18aff3ce9323114-08/s250x400/996beaeaacaaee707c01c7d9e2152074fc1e701c.gifv" width="150"/>
-<img src="https://64.media.tumblr.com/62574ae823f097d7830e4ee6e08d3da9/84defca3abe8bfd5-dc/s250x400/aa3a982307d773ccd1a0beaf4a549e218f0e3722.webp" width="150"/>
+
+
+
+
+
 
 
 
@@ -13,7 +14,33 @@
 
   </p>
 
-  <img src="https://64.media.tumblr.com/2be6a5ceb4f553b5cc3374e5a220c494/4d8f51f9e4c253bd-0c/s1280x1920/29b90d406c6bda8b8cde1b30fa49ccff52e0872a.pnj" width="200"/>
+   <img src="https://64.media.tumblr.com/5721942a12ddb0cf46f92b8a8d63650b/135d6e6937ffbdd1-ed/s75x75_c1/621b166437321f835c0c95acfcad8c5445ebb3fa.gifv" width="30"/>![](https://komarev.com/ghpvc/?username=pllayer-132&color=164ba1&style=flat-square&label=DEATH-COUNT?!&base=50)   
+  </p>
+
+<table>
+  <tr>
+    <!-- LEFT: blinkies -->
+    <td valign="top">
+      <img src="https://64.media.tumblr.com/69c8d9407a98a3dcc380c43a9292f698/b18aff3ce9323114-81/s250x400/036dc286f655d5ec174d083a555a25c7771db08f.gifv" width="130"/><br>
+      <img src="https://64.media.tumblr.com/62574ae823f097d7830e4ee6e08d3da9/84defca3abe8bfd5-dc/s250x400/aa3a982307d773ccd1a0beaf4a549e218f0e3722.webp" width="130"/><br>
+      <img src="https://64.media.tumblr.com/4a13830dd275bcafd1482e1dbb1fc45e/473928ea48888009-f0/s100x200/a8cd6e26130895738be1887f4bbdebaa7a0b4689.gifv" width="110"/><br>
+      <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0dcb31f9-bbbb-47c8-addc-95743576231b/d9v4pua-ceeb46f9-546f-4a64-b313-0419253a7637.png/v1/fill/w_104,h_65,q_80,strp/stop_hating_me__by_supermariofan65_d9v4pua-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjUiLCJwYXRoIjoiL2YvMGRjYjMxZjktYmJiYi00N2M4LWFkZGMtOTU3NDM1NzYyMzFiL2Q5djRwdWEtY2VlYjQ2ZjktNTQ2Zi00YTY0LWIzMTMtMDQxOTI1M2E3NjM3LnBuZyIsIndpZHRoIjoiPD0xMDQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.mEzrOEBdZlW_Ues0p7b_PwWFP59xkHbQJE7RZ25CPeA" width="110"/><br>
+      <img src="https://64.media.tumblr.com/d94993da2bdab08887b3ffbe60381f53/78d582f67a32258b-97/s100x200/cd589ad632d4359cc4e9f929aca5ac5ac0458b0b.gifv" width="110"/><br>
+
+
+
+  </td>
+
+   <!-- RIGHT: CD graphic -->
+  <td valign="top" align="right">
+      <img 
+        src="https://64.media.tumblr.com/2be6a5ceb4f553b5cc3374e5a220c494/4d8f51f9e4c253bd-0c/s1280x1920/29b90d406c6bda8b8cde1b30fa49ccff52e0872a.pnj"
+        width="280"
+      />
+    </td>
+  </tr>
+</table>
+
 
   </p>
   <img 
@@ -22,10 +49,6 @@
     style="margin:4px 0;"
   />
   </p>
-  <img src="https://64.media.tumblr.com/e658bea23833000e0fc07c016e2d1488/f1413ef45abf2485-7d/s100x200/299f80bd3a7705491033decba75cf03f3647b88b.pnj" width="100"/>
-  <img src="https://64.media.tumblr.com/4a13830dd275bcafd1482e1dbb1fc45e/473928ea48888009-f0/s100x200/a8cd6e26130895738be1887f4bbdebaa7a0b4689.gifv" width="100"/>
-  <img src="https://64.media.tumblr.com/d94993da2bdab08887b3ffbe60381f53/78d582f67a32258b-97/s100x200/cd589ad632d4359cc4e9f929aca5ac5ac0458b0b.gifv" width="100"/>
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0dcb31f9-bbbb-47c8-addc-95743576231b/d9v4pua-ceeb46f9-546f-4a64-b313-0419253a7637.png/v1/fill/w_104,h_65,q_80,strp/stop_hating_me__by_supermariofan65_d9v4pua-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjUiLCJwYXRoIjoiL2YvMGRjYjMxZjktYmJiYi00N2M4LWFkZGMtOTU3NDM1NzYyMzFiL2Q5djRwdWEtY2VlYjQ2ZjktNTQ2Zi00YTY0LWIzMTMtMDQxOTI1M2E3NjM3LnBuZyIsIndpZHRoIjoiPD0xMDQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.mEzrOEBdZlW_Ues0p7b_PwWFP59xkHbQJE7RZ25CPeA" width="100"/>
 
 
 
