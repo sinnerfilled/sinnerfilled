@@ -25,7 +25,7 @@
   />
   </p>
     </p>
-  <img src="https://i.imgur.com/V36fKuA.png" width="400"/>
+  <img src="https://pbs.twimg.com/media/G9boVYUaEAAOeyH?format=jpg&name=medium" width="500"/>
 
 
   </p>
@@ -40,7 +40,6 @@
   </p>
 
   </p>
-  by <a href="https://x.com/gvi_gesoebi">@gvi_gesoebi on twit</a>  
   </p>
 I'm usually in one of my Sixty or RK900 ponies, <br>
 always on the left of the cafe
