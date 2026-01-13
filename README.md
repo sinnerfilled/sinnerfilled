@@ -75,7 +75,7 @@
 
   </p>
   </p>
-I'm usually in one of my Sixty or RK900 ponies, <br>
+I'm usually in one of my Sixty or RK900 / Nines ponies, <br>
 always on the left of the cafe
 
   </p>
