@@ -91,7 +91,7 @@ always on the left of the cafe
   <img src="https://i.imgur.com/sZ4XmvX.png" width="400"/>
 
   </p>
-  <a href="https://x.com/gvi_gesoebi">also by @gvi_gesoebi lol</a>
+  <a href="https://x.com/gvi_gesoebi">also by @gvi_gesoebi</a>
   </p>
 
 </div>
