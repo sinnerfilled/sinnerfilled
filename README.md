@@ -58,10 +58,6 @@
 
 
   </p>
-  <img src="https://pbs.twimg.com/media/GZdBqjMbsAAmJ3y?format=jpg&name=4096x4096" width="700"/>
-
-  <a href="https://x.com/gvi_gesoebi">by @gvi_gesoebi</a>
-
   </p>
 
   <div style="margin:4px 0;">
