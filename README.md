@@ -34,10 +34,10 @@
    <!-- RIGHT: CD graphic -->
   <td valign="top" align="right">
       <img 
-        src="https://i.imgur.com/nhue3i6.png"
-        width="280"
+        src="https://pbs.twimg.com/media/G-eAWW5acAAgjYa?format=jpg&name=medium"
+        width="300"
       /><br>
-    <a href="https://x.com/CWee_bluu">by @CWee_bluu</a>
+    <a href="https://x.com/bec085523">by @bec085523</a>
     </td>
   </tr>
 </table>
