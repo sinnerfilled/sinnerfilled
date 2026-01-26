@@ -71,8 +71,8 @@
 
   </p>
   </p>
-I'm usually in one of my Sixty or RK900 / Nines ponies, <br>
-always on the left of the cafe. I use my connor pony sometimes too.
+I'm usually in one of my Sixty or connor ponies, <br>
+always on the left of the cafe. I use my RK900 / Nines pony sometimes too.
 
   </p>
 
