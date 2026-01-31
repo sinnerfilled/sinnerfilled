@@ -34,10 +34,9 @@
    <!-- RIGHT: CD graphic -->
   <td valign="top" align="right">
       <img 
-        src="https://pbs.twimg.com/media/G-eAWW5acAAgjYa?format=jpg&name=medium"
-        width="300"
+        src="https://pbs.twimg.com/media/G_1LwzJbUAUIk1Y?format=jpg&name=4096x4096"
+        width="500"
       /><br>
-    <a href="https://x.com/bec085523">by @bec085523</a>
     </td>
   </tr>
 </table>
