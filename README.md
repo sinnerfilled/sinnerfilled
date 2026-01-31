@@ -28,7 +28,7 @@
 
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0dcb31f9-bbbb-47c8-addc-95743576231b/d9v4pua-ceeb46f9-546f-4a64-b313-0419253a7637.png/v1/fill/w_104,h_65,q_80,strp/stop_hating_me__by_supermariofan65_d9v4pua-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjUiLCJwYXRoIjoiL2YvMGRjYjMxZjktYmJiYi00N2M4LWFkZGMtOTU3NDM1NzYyMzFiL2Q5djRwdWEtY2VlYjQ2ZjktNTQ2Zi00YTY0LWIzMTMtMDQxOTI1M2E3NjM3LnBuZyIsIndpZHRoIjoiPD0xMDQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.mEzrOEBdZlW_Ues0p7b_PwWFP59xkHbQJE7RZ25CPeA" width="110"/><br>
       <img src="https://64.media.tumblr.com/352b2b5d177dda9822f7fa08429cb0b1/b9fa967118b999fa-44/s100x200/049110528719a636ba3b0cecb304d8c581e32bad.pnj" width="110"/><br>
-            <img src="https://64.media.tumblr.com/2e2b5a372863ea1ba9ed29f51a004575/3c7512c789785a26-eb/s250x400/907d9105af8497de7551fc2407fcacbfb4810976.webp" width="120"/><br>
+            <img src="https://64.media.tumblr.com/f79fae004ff100fb0dfe5d3a7f5b1a45/55e83239765ee5b4-46/s100x200/4ca21c31c5e2e1339a839217d2fa247d67c973f2.pnj" width="120"/><br>
             <img src="https://64.media.tumblr.com/43160e7468c8a4c5061152b6dea7d680/cc73b2501d17b517-40/s2048x3072/e9de74444118ec6bceed2e8235a0fb51483f6334.pnj" width="120"/><br>
 
 
