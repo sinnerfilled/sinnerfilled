@@ -78,12 +78,14 @@ I'm usually in one of my Sixty or connor ponies, <br>
 always on the left of the cafe. I use my RK900 / Nines pony sometimes too.
 
   </p>
+  <img src="https://64.media.tumblr.com/953d08603a2b1fbb7512ffc22cb1615b/d92b741bff08a75a-d4/s1280x1920/c2ae10cae7f9e3963b82cca4890e3a2244202c0e.jpg" width="400"/>
 
   <br>
+   </p>if I disconnect a lot mid-conversation, that's cuz i was evil and used <br>
+  scripts / macros / alt accounts multiple times and then the pt gods punished me LOL</p>
   <img src="https://i.imgur.com/zViwpuX.png" width="320"/>
 
-  </p>if I disconnect a lot mid-conversation, that's cuz i was evil and used <br>
-  scripts / macros / alt accounts multiple times and then the pt gods punished me LOL</p>
+ 
 
   </p>
 
