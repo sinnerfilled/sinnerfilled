@@ -37,7 +37,7 @@
    <!-- RIGHT: CD graphic -->
   <td valign="top" align="right">
       <img 
-        src=""
+        src="https://i.imgur.com/Mzxg1l2.jpeg"
         width="400"
       /><br>
     </td>
