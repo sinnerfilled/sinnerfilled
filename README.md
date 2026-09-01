@@ -75,8 +75,8 @@
   </p>
 
   <br>
-   </p>if I disconnect a lot mid-conversation, that's cuz i was evil and used <br>
-  scripts / macros / alt accounts multiple times and then the pt gods punished me LOL</p>
+   </p>I disconnect a lot mid-conversations cuz i used <br>
+  scripts/macros/alts a couple times and then the pt gods punished me</p>
   <img src="https://i.imgur.com/zViwpuX.png" width="320"/>
 
  
