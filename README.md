@@ -14,7 +14,7 @@
 
   </p>
 
-   <img src="https://64.media.tumblr.com/5721942a12ddb0cf46f92b8a8d63650b/135d6e6937ffbdd1-ed/s75x75_c1/621b166437321f835c0c95acfcad8c5445ebb3fa.gifv" width="30"/>![](https://komarev.com/ghpvc/?username=pllayer-132&color=164ba1&style=flat-square&label=PAGE-VIEWS!&base=50)   
+   <img src="https://64.media.tumblr.com/5721942a12ddb0cf46f92b8a8d63650b/135d6e6937ffbdd1-ed/s75x75_c1/621b166437321f835c0c95acfcad8c5445ebb3fa.gifv" width="30"/>![](https://komarev.com/ghpvc/?username=pllayer-132&color=eb9234&style=flat-square&label=PAGE-VIEWS!&base=50)   
   </p>
 
 <table>
@@ -47,7 +47,7 @@
 
   </p>
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=20&duration=2000&pause=800&color=2492c9&center=true&vCenter=true&width=700&lines=Usually%20in%20class%20so%20w2i...;c*h%20always%20encouraged!;int%20anytime...%20ok...?;check%20my%20strawpage%20too!)" 
+    src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=20&duration=2000&pause=800&color=eb9234&center=true&vCenter=true&width=700&lines=Usually%20in%20class%20so%20w2i...;c*h%20always%20encouraged!;int%20anytime...%20ok...?;check%20my%20strawpage%20too!)" 
     alt="typing"
     style="margin:4px 0;"
   />
