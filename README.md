@@ -47,13 +47,12 @@
 
   </p>
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=20&duration=2000&pause=800&color=eb9234&center=true&vCenter=true&width=700&lines=Usually%20in%20class%20so%20w2i...;c*h%20always%20encouraged!;int%20anytime...%20ok...?;check%20my%20strawpage%20too!)" 
+    src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=20&duration=2000&pause=800&color=eb9234&center=true&vCenter=true&width=700&lines=Usually%20in%20class%20so%20w2i...;c*h%20always%20encouraged!;int%20anytime...%20ok...?;check%20my%20strawpage%20too!" 
     alt="typing"
     style="margin:4px 0;"
   />
   </p>
-
-
+  
 
 
   </div>
@@ -77,8 +76,12 @@
   </p>
 
   <br>
-   </p>I disconnect a lot mid-conversations cuz i used <br>
-  scripts/macros/alts a couple times and then the pt gods punished me</p>
+  
+  $\color{#ab825e}\textsf{I disconnect a lot mid-conversations cuz i used scripts/macros/alts a few years back}$
+  
+   </p>
+
+   </p></p>
   <img src="https://i.imgur.com/zViwpuX.png" width="320"/>
 
  
